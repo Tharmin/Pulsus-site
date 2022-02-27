@@ -1,1 +1,42 @@
+/* webpage initialisation */
+* {
+  margin: 0;
+  padding: 0;
+}
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+a:hover {
+  color: #00aeff;
+  transition: 0.1s;
+}
+body {
+  background: #23323c;
+  font-family: Quicksand, Arial, sans-serif;
+}
 
+/* text effects*/
+
+/* misc */
+.pulsusplaylogo {
+  max-width: 6%;
+  transition: all ease-in-out;
+  transition: 0.5s;
+}
+.pulsusplaylogo:hover {
+  transform: scale(0.8);
+}
+.navbar {
+  background-color: #14232d;
+  line-height: 6%;
+}
+.header_element {
+  line-height: 6%;
+  vertical-align: middle;
+  padding-right: 3%;
+  font-size: 1.5em;
+}
+.profilelogin {
+  float: right;
+}
