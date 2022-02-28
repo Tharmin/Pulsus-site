@@ -8,3 +8,8 @@ that's all you need to know lmao
 
 For contributors:
 - dm Tharmin.124#7667 on collab info
+
+Credits
+- TetroGem (Game Dev)
+- AFasterSlowpoke (Graphics Designer)
+- ZachCrom, Tharmin and shatboi (Website)
